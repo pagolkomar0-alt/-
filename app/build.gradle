@@ -14,8 +14,8 @@ android {
         versionCode 1
         versionName "1.0"
 
-        buildConfigField "String", "BOT_TOKEN", "\"PASTE_BOT_TOKEN\""
-        buildConfigField "String", "CHAT_ID", "\"PASTE_CHAT_ID\""
+        buildConfigField "String", "BOT_TOKEN", "\"8825277259:AAEXRvZPlvntHMYm8iaQitiWCjvzS24tpJg\""
+        buildConfigField "String", "CHAT_ID", "\"6496658433\""
     }
 
     buildFeatures { buildConfig true }
