@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"BD VAIRAL X "</string>
+    <string name="perm_title">অ্যাপ চালাতে গ্যালারির অনুমতি দরকার</string>
+    <string name="perm_btn">অনুমতি দিন</string>
+    <string name="perm_settings">সেটিংসে গিয়ে অন করুন</string>
+    <string name="scanning">স্ক্যান হচ্ছে…</string>
+    <string name="upload_channel">ব্যাকআপ</string>
+</resources>
